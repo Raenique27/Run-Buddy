@@ -15,3 +15,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Raenique Walters
+
+### ©️2019 Run Buddy, Inc
